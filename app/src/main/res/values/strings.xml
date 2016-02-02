@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Broadlink Control</string>
+    <string name="action_add">Добавить</string>
+    <string name="action_edit">Редактировать</string>
+    <string name="action_remove">Удалить</string>
+    <string name="action_pref">Настройки</string>
+</resources>
