@@ -4,4 +4,4 @@
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=HMjIbFPheFo
 " target="_blank"><img src="http://img.youtube.com/vi/HMjIbFPheFo/0.jpg"
-alt="Видео демо" width="1000" height="800" border="10" /></a>
+alt="Видео демо" width="600" height="500" border="10" /></a>
